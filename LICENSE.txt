@@ -1,6 +1,6 @@
 The MIT License (MIT)
 
-Michael Sun 2017
+Michael Sun 2017 in the branch
  
 Copyright (c) 2013 Dan Wahlin and Wahlin Consulting (http://github.com/DanWahlin)
 
