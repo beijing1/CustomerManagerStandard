@@ -1,5 +1,7 @@
 The MIT License (MIT)
 
+Michael Sun 2017
+ 
 Copyright (c) 2013 Dan Wahlin and Wahlin Consulting (http://github.com/DanWahlin)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
